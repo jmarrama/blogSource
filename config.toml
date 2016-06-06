@@ -5,8 +5,7 @@ title = "A Man, a Van, and a Plan"
 [Params]
 Author = "Joe Marrama"
 subtitle = "Climbing, adventuring, and everything in between"
-profile = "/images/headshot.jpg"
-copyright = "Written by Joe Marrama"
+copyright = "Words by Joe Marrama"
 analytics = "UA-38972479-1"
 
 [taxonomies]
