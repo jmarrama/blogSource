@@ -1,6 +1,6 @@
 +++
-date = "2016-08-30T11:59:00-07:00"
-draft = true
+date = "2016-09-01T11:59:00-07:00"
+draft = false
 title = "Regular Route on Fairview Dome"
 tags = ["climbing"]
 +++
@@ -21,10 +21,13 @@ trip. He couldn't find his friends he was supposed to do Matthes Crest with, so
 we didn't waste any time taking off to go climb somewhere else.
 
 Our first objective was West Crack on Daff dome, which is a classic 5.8 route that
-ascends a splitter crack up the side of the dome over 4 pitches. We made quick
-work of it, and afterwards wanted something a little more substantial. Staring
-us in the face was Fairview dome, and what better route to attempt than the
-most famous one leading directly up its prow? When I mentioned that the regular
+ascends a splitter crack up the side of the dome over 4 pitches. After the
+first pitch it was clear Jack was a great partner. We worked very well
+together, climbed around the same level (Jack was clearly the superior
+climber), and were both stoked to climb all day. We made quick work of West
+Crack, and afterwards wanted something a little more substantial. Staring us in
+the face was Fairview dome, and what better route to attempt than the most
+famous one leading directly up its prow? When I mentioned that the regular
 route was in the [famous list of 50 classic
 climbs](https://en.wikipedia.org/wiki/Fifty_Classic_Climbs_of_North_America),
 Jack got especially psyched to give it a go. It was 1pm, there were no clouds
@@ -36,15 +39,15 @@ as the dome curved up it got steadily harder, until the crux about 150 feet up
 which is a slippery 5.9 fingercrack in a corner. I put in a prolific amount of
 pro and managed to make it clean to the belay. We had a 70 meter rope, which
 allowed me to make it to a spacious ledge with a tree to anchor to. I highly
-recommend getting to this ledge any way possible for the end of the first
-pitch, even if you have to simulclimb on a 60 meter. There aren't any spots
-better than this one.
+recommend getting to this ledge any way possible to end the first
+pitch, even if you have to simulclimb on a 60 meter. All of the other belay
+spots below are marginal.
 
 ![](/images/small_IMG_4792.jpg)
 *Looking down on the first pitch. The crux was right below the bright part of
 the crack*
 
-We swung leads the whole climb, thus Jack took pitch 2 while I enjoyed the
+We swung leads the whole climb, so Jack took pitch 2 while I enjoyed the
 view. The majority of pitch 2 was an awesome flaring hand crack. It was rated
 5.8, but it was surprisingly sustained. I was starting to get a little
 fatigued, but the climbing was just moderate enough and too damn fun to get
@@ -100,7 +103,7 @@ stretch.
 We summitted around 6:50, just in time to savor the incredible view 
 all around us. We walked off in the dusk and made it back to the cars around
 7:50. We were both exhausted yet giddy that a non-day of climbing turned into a
-worthy epic, ascending over 1600 feet and one of the most worthy routes around.
+worthy epic, ascending over 1600 feet and one of the best routes around.
 
 ![](/images/small_IMG_4807.jpg)
 *Looking east towards the meadows. The picture doesn't really do it justice*
